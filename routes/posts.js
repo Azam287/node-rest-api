@@ -7,7 +7,7 @@ const router = express.Router();
 });*/
 
 router.get('/posts',(res,req)=>{
-    res.send('we are on posts tygyghuhoijoijoook');
+    res.send('we are on posts');
 });
 
 router.get('/specific',(res,req)=>{
